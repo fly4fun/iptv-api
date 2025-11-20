@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 18:28:15,http://bxtv.3a.ink/migu.php?id=cctv4
+2025-11-21 06:22:42,http://bxtv.3a.ink/migu.php?id=cctv4
 
 📺央视频道,#genre#
 CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
@@ -7,7 +7,6 @@ CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p
 CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6
 CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
-CCTV-8,http://61.184.46.85:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
 CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10
 CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11
@@ -25,6 +24,6 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191
