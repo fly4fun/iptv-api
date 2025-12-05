@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-05 18:28:29,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-06 06:24:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -183,7 +183,6 @@ CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
-CETV-1,http://221.205.180.120:8004/rtp/226.0.2.181:9360
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
@@ -192,6 +191,7 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 CETV-1,https://cc06.tv12.xyz/23.m3u8
 CETV-1,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-1,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 CETV-2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8

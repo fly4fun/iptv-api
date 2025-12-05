@@ -1,9 +1,8 @@
-Name: 凤凰中文, URL: https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 59 ms, Speed: 5.17 M/s, Resolution: 1920x1080
-Name: 凤凰中文, URL: http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 263 ms, Speed: 0.41 M/s, Resolution: None
-Name: 凤凰资讯, URL: http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 252 ms, Speed: 0.45 M/s, Resolution: None
-Name: CCTV-1, URL: http://a.402089.xyz:4022/rtp/233.50.200.143:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-9, URL: http://183.220.107.138:4022/rtp/239.11.0.111:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 413 ms, Speed: 0.94 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 459 ms, Speed: 0.04 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://144.255.32.94:8288/rtp/239.21.2.7:5002, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 464 ms, Speed: 0.06 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 403 ms, Speed: 0.93 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://221.205.180.120:8004/rtp/226.0.2.181:9360, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 708 ms, Speed: 0.01 M/s, Resolution: None
+Name: 凤凰中文, URL: https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 28 ms, Speed: 11.13 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://221.205.180.120:8004/rtp/226.0.2.181:9360, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 凤凰中文, URL: http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 76 ms, Speed: 1.11 M/s, Resolution: None
+Name: 凤凰资讯, URL: http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 84 ms, Speed: 0.98 M/s, Resolution: None
+Name: CCTV-9, URL: http://183.220.107.138:4022/rtp/239.11.0.111:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 495 ms, Speed: 0.93 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 555 ms, Speed: 0.26 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://144.255.32.94:8288/rtp/239.21.2.7:5002, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 533 ms, Speed: 0.44 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 500 ms, Speed: 0.93 M/s, Resolution: 1920x1080
