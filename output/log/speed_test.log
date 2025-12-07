@@ -1,6 +1,6 @@
-Name: 凤凰中文, URL: https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 13 ms, Speed: 23.60 M/s, Resolution: 1920x1080
-Name: 凤凰资讯, URL: http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 310 ms, Speed: 0.39 M/s, Resolution: None
-Name: 凤凰中文, URL: http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 328 ms, Speed: 0.18 M/s, Resolution: None
-Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 492 ms, Speed: 0.08 M/s, Resolution: 1920x1080
-Name: CCTV-9, URL: http://183.220.107.138:4022/rtp/239.11.0.111:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 466 ms, Speed: 0.94 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 447 ms, Speed: 0.53 M/s, Resolution: 1920x1080
+Name: 凤凰中文, URL: https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 24 ms, Speed: 12.96 M/s, Resolution: 1920x1080
+Name: 凤凰中文, URL: http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 914 ms, Speed: 0.08 M/s, Resolution: None
+Name: 凤凰资讯, URL: http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 896 ms, Speed: 0.08 M/s, Resolution: None
+Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 544 ms, Speed: 0.31 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://183.220.107.138:4022/rtp/239.11.0.111:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 489 ms, Speed: 0.93 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 488 ms, Speed: 0.93 M/s, Resolution: 1920x1080
