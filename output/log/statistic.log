@@ -19,6 +19,6 @@ Category: 📺央视频道, Name: CCTV-17, Total: 160, Valid: 44, Valid Percent:
 Category: 📺央视频道, Name: CETV-1, Total: 152, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 152, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺央视频道, Name: CETV-2, Total: 133, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 133, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺央视频道, Name: CETV-3, Total: 6, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📺央视频道, Name: CETV-4, Total: 141, Valid: 1, Valid Percent: 0.71%, Whitelist: 0, IPv4: 1, IPv6: 140, Min Delay: 442 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 🌊港·澳·台, Name: 凤凰中文, Total: 184, Valid: 21, Valid Percent: 11.41%, Whitelist: 0, IPv4: 2, IPv6: 182, Min Delay: 0.1 ms, Max Speed: 7.58 M/s, Avg Speed: 0.37 M/s, Max Resolution: 1920x1080
-Category: 🌊港·澳·台, Name: 凤凰资讯, Total: 192, Valid: 36, Valid Percent: 18.75%, Whitelist: 0, IPv4: 1, IPv6: 191, Min Delay: 0.1 ms, Max Speed: 0.62 M/s, Avg Speed: 0.02 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CETV-4, Total: 141, Valid: 1, Valid Percent: 0.71%, Whitelist: 0, IPv4: 1, IPv6: 140, Min Delay: 476 ms, Max Speed: 0.02 M/s, Avg Speed: 0.02 M/s, Max Resolution: 1920x1080
+Category: 🌊港·澳·台, Name: 凤凰中文, Total: 184, Valid: 21, Valid Percent: 11.41%, Whitelist: 0, IPv4: 2, IPv6: 182, Min Delay: 0.1 ms, Max Speed: 19.48 M/s, Avg Speed: 0.95 M/s, Max Resolution: 1920x1080
+Category: 🌊港·澳·台, Name: 凤凰资讯, Total: 192, Valid: 36, Valid Percent: 18.75%, Whitelist: 0, IPv4: 1, IPv6: 191, Min Delay: 0.1 ms, Max Speed: 0.14 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
