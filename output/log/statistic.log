@@ -8,7 +8,7 @@ Category: 📺央视频道, Name: CCTV-6, Total: 239, Valid: 35, Valid Percent: 
 Category: 📺央视频道, Name: CCTV-7, Total: 248, Valid: 60, Valid Percent: 24.19%, Whitelist: 0, IPv4: 0, IPv6: 248, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-8, Total: 240, Valid: 47, Valid Percent: 19.58%, Whitelist: 0, IPv4: 0, IPv6: 240, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-9, Total: 252, Valid: 59, Valid Percent: 23.41%, Whitelist: 0, IPv4: 0, IPv6: 252, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-10, Total: 252, Valid: 59, Valid Percent: 23.41%, Whitelist: 0, IPv4: 2, IPv6: 250, Min Delay: 0.1 ms, Max Speed: 0.53 M/s, Avg Speed: 0.02 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-10, Total: 252, Valid: 59, Valid Percent: 23.41%, Whitelist: 0, IPv4: 2, IPv6: 250, Min Delay: 0.1 ms, Max Speed: 0.50 M/s, Avg Speed: 0.02 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-11, Total: 272, Valid: 66, Valid Percent: 24.26%, Whitelist: 0, IPv4: 0, IPv6: 272, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-12, Total: 261, Valid: 64, Valid Percent: 24.52%, Whitelist: 0, IPv4: 0, IPv6: 261, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-13, Total: 300, Valid: 41, Valid Percent: 13.67%, Whitelist: 0, IPv4: 0, IPv6: 300, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -16,9 +16,9 @@ Category: 📺央视频道, Name: CCTV-14, Total: 238, Valid: 38, Valid Percent:
 Category: 📺央视频道, Name: CCTV-15, Total: 254, Valid: 63, Valid Percent: 24.80%, Whitelist: 0, IPv4: 0, IPv6: 254, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-16, Total: 48, Valid: 23, Valid Percent: 47.92%, Whitelist: 0, IPv4: 0, IPv6: 48, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-17, Total: 251, Valid: 44, Valid Percent: 17.53%, Whitelist: 0, IPv4: 0, IPv6: 251, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CETV-1, Total: 400, Valid: 3, Valid Percent: 0.75%, Whitelist: 0, IPv4: 3, IPv6: 397, Min Delay: 477 ms, Max Speed: 10.69 M/s, Avg Speed: 4.42 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CETV-2, Total: 355, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 355, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 📺央视频道, Name: CETV-1, Total: 401, Valid: 3, Valid Percent: 0.75%, Whitelist: 0, IPv4: 3, IPv6: 398, Min Delay: 802 ms, Max Speed: 6.35 M/s, Avg Speed: 3.00 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CETV-2, Total: 356, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 356, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺央视频道, Name: CETV-3, Total: 7, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 7, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📺央视频道, Name: CETV-4, Total: 369, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 369, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 📺央视频道, Name: CETV-4, Total: 370, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 370, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🌊港·澳·台, Name: 凤凰中文, Total: 280, Valid: 19, Valid Percent: 6.79%, Whitelist: 0, IPv4: 1, IPv6: 279, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🌊港·澳·台, Name: 凤凰资讯, Total: 293, Valid: 35, Valid Percent: 11.95%, Whitelist: 0, IPv4: 1, IPv6: 292, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
